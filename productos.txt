@@ -1,0 +1,32 @@
+[
+    {
+      "titulo":"Coma",
+      "autor": "Robin Cook",
+      "precio": 3000,
+      "id":1
+   },
+    {
+      "titulo":"Riesgo aceptable",
+      "autor": "Robin Cook",
+      "precio": 3500,
+      "id":2
+   },
+       {
+      "titulo":"Solas",
+      "autor": "M. Florencia Freijo",
+      "precio": 4000,
+      "id":3
+   },
+       {
+      "titulo":"Mal educadas",
+      "autor": "M. Florencia Freijo",
+      "precio": 4200,
+      "id":4
+   },
+       {
+      "titulo":"Carrie",
+      "autor": "Stephen King",
+      "precio": 5000,
+      "id":5
+   }
+]
